@@ -13,8 +13,6 @@ Use Plaid APIs to link bank account and get Tranasactions and Account Info
 
 # Setting Up the project with Plaid and Django Rest Framework
 
-# Django Assignment
-
 [Plaid](https://plaid.com/docs/)​ is an account aggregation service where users can login with their bank credentials and plaid fetches last two years of transaction and account balance data for their bank account. This project is its implementation using Django.
 
 * `Item`​ , a set of credentials (map of key value pairs) associated with a financial institution and a user.
