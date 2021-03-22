@@ -2,47 +2,47 @@
 
 **Signup Page**
 
-![](images/Sign-UP.jpg)
+![](images/Sign-UP.JPG)
 
 **Login Page**
 
-![](images/login.jpg)
+![](images/login.JPG)
 
 **HomePage**
 
-![](images/home.jpg)
+![](images/home.JPG)
 
 **Link Bank Account**
 
-![](images/Link_Bank_Account.jpg)
+![](images/Link_Bank_Account.JPG)
 
 **Plaid Interface to link Bank Account**
 
-![](images/plaid_link.jpg)
+![](images/plaid_link.JPG)
 
 **Select Bank**
 
-![](images/select-bank.jpg)
+![](images/select-bank.JPG)
 
 **Enter Bank Credentials**
 
-![](images/credentials.jpg)
+![](images/credentials.JPG)
 
 **Bank Account Linked**
 
-![](images/succesful-link.jpg)
+![](images/succesful-link.JPG)
 
 **Last 2 Years Transaction**
 
-![](images/transactions.jpg)
+![](images/transactions.JPG)
 
 **Account Balance Info**
 
-![](images/balance.jpg)
+![](images/balance.JPG)
 
 **Other Infos**
 
-![](images/item.jpg)
+![](images/item.JPG)
 
 # Setting Up the project with Plaid and Django Rest Framework
 
@@ -55,7 +55,7 @@
 
 * Each `​Item​` can have many associated accounts, which hold information such as balance, name, and account type
 
-    ![img](media/plaid_model.jpg)
+    ![img](media/plaid_model.JPG)
 
 * **Credit and depository**​ accounts can have `Transactions` associated with them
 
