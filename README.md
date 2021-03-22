@@ -1,48 +1,15 @@
-# Images for better Visualization of project
+# Plaid-API-Django-Project
 
-**Signup Page**
+**Objective**
 
-![](images/Sign-UP.JPG)
+Use Plaid APIs to link bank account and get Tranasactions and Account Info
 
-**Login Page**
-
-![](images/login.JPG)
-
-**HomePage**
-
-![](images/home.JPG)
-
-**Link Bank Account**
-
-![](images/Link_Bank_Account.JPG)
-
-**Plaid Interface to link Bank Account**
-
-![](images/plaid_link.JPG)
-
-**Select Bank**
-
-![](images/select-bank.JPG)
-
-**Enter Bank Credentials**
-
-![](images/credentials.JPG)
-
-**Bank Account Linked**
-
-![](images/succesful-link.JPG)
-
-**Last 2 Years Transaction**
-
-![](images/transactions.JPG)
-
-**Account Balance Info**
-
-![](images/balance.JPG)
-
-**Other Infos**
-
-![](images/item.JPG)
+**Tech Stack**
+* Python
+* Django
+* Redis
+* Celery
+* Sqlite
 
 # Setting Up the project with Plaid and Django Rest Framework
 
@@ -209,6 +176,52 @@ After setting up all the things you need to migrate the changes, create admin us
     $ python manage.py createsuperuser
     $ python manage.py collectstatic
     $ python manage.py runserver
+
+# Images for better Visualization of project
+
+**Signup Page**
+
+![](images/Sign-UP.JPG)
+
+**Login Page**
+
+![](images/login.JPG)
+
+**HomePage**
+
+![](images/home.JPG)
+
+**Link Bank Account**
+
+![](images/Link_Bank_Account.JPG)
+
+**Plaid Interface to link Bank Account**
+
+![](images/plaid_link.JPG)
+
+**Select Bank**
+
+![](images/select-bank.JPG)
+
+**Enter Bank Credentials**
+
+![](images/credentials.JPG)
+
+**Bank Account Linked**
+
+![](images/succesful-link.JPG)
+
+**Last 2 Years Transaction**
+
+![](images/transactions.JPG)
+
+**Account Balance Info**
+
+![](images/balance.JPG)
+
+**Other Infos**
+
+![](images/item.JPG)
 
 ## Sum Up
 
