@@ -2,43 +2,47 @@
 
 **Signup Page**
 
-![](images/Signup.png)
+![](images/Sign-UP.jpg)
 
 **Login Page**
 
-![](images/Login.png)
+![](images/login.jpg)
 
 **HomePage**
 
-![](images/Home.png)
+![](images/home.jpg)
+
+**Link Bank Account**
+
+![](images/Link_Bank_Account.jpg)
+
+**Plaid Interface to link Bank Account**
+
+![](images/plaid_link.jpg)
 
 **Select Bank**
 
-![](images/SelectBank.png)
+![](images/select-bank.jpg)
 
-**Verify Bank Details**
+**Enter Bank Credentials**
 
-![](images/VerifyDetails.png)
+![](images/credentials.jpg)
 
-**Bank Added Successfully**
+**Bank Account Linked**
 
-![](images/BankSuccess.png)
-
-**HomePage When Bank Added**
-
-![](images/HomeWhenBankAdded.png)
+![](images/succesful-link.jpg)
 
 **Last 2 Years Transaction**
 
-![](images/TransactionsOf2Years.png)
+![](images/transactions.jpg)
 
 **Account Balance Info**
 
-![](images/AccountBalance.png)
+![](images/balance.jpg)
 
 **Other Infos**
 
-![](images/OtherInfos.png)
+![](images/item.jpg)
 
 # Setting Up the project with Plaid and Django Rest Framework
 
