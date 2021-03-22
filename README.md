@@ -20,7 +20,7 @@ Use Plaid APIs to link bank account and get Tranasactions and Account Info
 
 * Each `​Item​` can have many associated accounts, which hold information such as balance, name, and account type
 
-    ![img](media/plaid_model.JPG)
+    ![img](media/plaid_model.jpg)
 
 * **Credit and depository**​ accounts can have `Transactions` associated with them
 
